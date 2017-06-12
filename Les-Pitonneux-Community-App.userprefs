@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8EBD3209-65FB-4E9A-B174-D4AE98978707}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Renderers/LoginRenderer.cs">
+    <Files>
+      <File FileName="Les-Pitonneux-Community-App/App.xaml.cs" Line="6" Column="1" />
+      <File FileName="Droid/Renderers/LoginRenderer.cs" Line="4" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Les-Pitonneux-Community-App.Droid PreferredExecutionTarget="Android.Nexus 7 (Marshmallow)" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Les-Pitonneux-Community-App.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F4CCD28A-E0CF-4199-AF94-A4BA5BB350F8" />
+</Properties>
