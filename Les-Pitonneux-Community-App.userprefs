@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Renderers/LoginRenderer.cs">
     <Files>
       <File FileName="Les-Pitonneux-Community-App/App.xaml.cs" Line="6" Column="1" />
-      <File FileName="Droid/Renderers/LoginRenderer.cs" Line="4" Column="31" />
+      <File FileName="Droid/Renderers/LoginRenderer.cs" Line="13" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

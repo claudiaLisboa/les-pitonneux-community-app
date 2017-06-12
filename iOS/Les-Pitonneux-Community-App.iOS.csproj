@@ -121,6 +121,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="LPConnection.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\Background_LesPitonneux.jpg" />
