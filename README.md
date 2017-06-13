@@ -1,4 +1,4 @@
-# xamarin.form
+# xamarin.form, C#
 # les-pitonneux-community-app
 
 This community app is intended to help newcomers and core members alike to discover other people in the community based on their profile and skill set, and to find out more about the Pitonneux activities. It's meant to complement the Pitonneux website and Slack community.
