@@ -5,6 +5,7 @@
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/FormsViewGroup.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Les-Pitonneux-Community-App.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Android.Support.Design.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Android.Support.v4.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
@@ -16,7 +17,9 @@
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Forms.Platform.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Newtonsoft.Json.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Les-Pitonneux-Community-App.pdb
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Les-Pitonneux-Community-App.dll.config
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/FormsViewGroup.pdb
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/FormsViewGroup.dll.mdb
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Forms.Core.pdb
@@ -27,6 +30,7 @@
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/bin/Debug/Newtonsoft.Json.xml
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/Les-Pitonneux-Community-App.Droid.csprojResolveAssemblyReference.cache
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/Les-Pitonneux-Community-App.Droid.csproj.CoreCompileInputs.cache
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/Les-Pitonneux-Community-App.Droid.dll
@@ -40,6 +44,9 @@
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/res/drawable-xhdpi/icon.png
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/res/drawable/background_lespitonneux.jpg
-/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/res/drawable/buttonlogingmail.png
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/res/drawable/buttonlogingoogle.png
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/res/drawable/user.png
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/res/drawable/lock.png
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/res/drawable/buttonloginslack.png
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/R.cs.flag
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/uploadflags.txt

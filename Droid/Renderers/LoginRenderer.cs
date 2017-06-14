@@ -10,7 +10,7 @@ using Android.Net;
 [assembly: ExportRenderer(typeof(Login.LoginFacebook), typeof(LoginRendererFacebook))]
 [assembly: ExportRenderer(typeof(Login), typeof(LoginRenderer))]
 
-namespace MaratonaVirtual.Droid
+namespace LesPitonneuxCommunityApp.Droid
 {
 	public class LoginRenderer : PageRenderer
 	{
@@ -20,13 +20,13 @@ namespace MaratonaVirtual.Droid
 
 			var activity = this.Context as Activity;
 
-			if (Conexao.DetectNetwork(activity))
+			if (LPConnection.DetectNetwork(activity))
 			{
-				Login.SaveErroConexao(false);
+				Login.SaveConnectionError(false);
 			}
 			else
 			{
-				Login.SaveErroConexao(true);
+				Login.SaveConnectionError(true);
 			}
 		}
 	}
@@ -39,7 +39,7 @@ namespace MaratonaVirtual.Droid
 
 			var activity = this.Context as Activity;
 
-			if (Conexao.DetectNetwork(activity))
+			if (LPConnection.DetectNetwork(activity))
 			{
 
 				var auth = new OAuth2Authenticator(

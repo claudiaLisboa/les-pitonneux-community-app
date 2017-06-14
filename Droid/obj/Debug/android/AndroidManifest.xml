@@ -4,18 +4,14 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="Les-Pitonneux-Community-App" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Les-Pitonneux-Community-App.Droid" android:theme="@style/MyTheme" android:name="md5c6a6b6afb0c8842ffb720949059e0aaf.MainActivity">
-      <intent-filter>
-        <action android:name="android.intent.action.MAIN" />
-        <category android:name="android.intent.category.LAUNCHER" />
-      </intent-filter>
-    </activity>
+    <activity android:icon="@drawable/icon" android:label="Les-Pitonneux-Community-App.Droid" android:screenOrientation="portrait" android:name="md5c6a6b6afb0c8842ffb720949059e0aaf.MainActivity" />
     <activity android:icon="@drawable/icon" android:label="Les-Pitonneux-Community-App.Droid" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md5c6a6b6afb0c8842ffb720949059e0aaf.SplashActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <service android:name="md59f70a99687498e7ba187118950981d26.KeepAliveService" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.pitonneux.les_pitonneux_community_app.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

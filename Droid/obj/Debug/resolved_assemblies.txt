@@ -1,6 +1,7 @@
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Les-Pitonneux-Community-App.Droid.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/FormsViewGroup.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Xamarin.Android.Support.CustomTabs.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Xamarin.Android.Support.Design.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v4.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Xamarin.Android.Support.v7.AppCompat.dll
@@ -16,6 +17,7 @@
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Mono.Android.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Core.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Json.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Xml.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Les-Pitonneux-Community-App.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/mscorlib.dll
@@ -44,3 +46,11 @@
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Runtime.InteropServices.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Mono.Security.dll
 /Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Diagnostics.Tools.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Newtonsoft.Json.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Xml.XDocument.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Xml.Linq.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Runtime.Serialization.Primitives.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Text.Encoding.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/System.Text.Encoding.Extensions.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Microsoft.CSharp.dll
+/Users/claudialisboa/Projects/Les-Pitonneux-Community-App/Droid/obj/Debug/android/assets/Mono.CSharp.dll

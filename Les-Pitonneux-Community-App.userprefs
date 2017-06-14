@@ -1,10 +1,5 @@
-﻿<Properties StartupConfiguration="{8EBD3209-65FB-4E9A-B174-D4AE98978707}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Renderers/LoginRenderer.cs">
-    <Files>
-      <File FileName="Les-Pitonneux-Community-App/App.xaml.cs" Line="6" Column="1" />
-      <File FileName="Droid/Renderers/LoginRenderer.cs" Line="13" Column="35" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{83D83424-F4A9-4B6C-BF96-29570E85D39A}|Default">
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
