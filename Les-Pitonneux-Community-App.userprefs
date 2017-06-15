@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{83D83424-F4A9-4B6C-BF96-29570E85D39A}|Default">
+﻿<Properties StartupConfiguration="{8EBD3209-65FB-4E9A-B174-D4AE98978707}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Les-Pitonneux-Community-App/Pages/Login.xaml.cs">
     <Files>
-      <File FileName="Les-Pitonneux-Community-App/Pages/Profile.xaml.cs" Line="6" Column="41" />
-      <File FileName="Les-Pitonneux-Community-App/Pages/Login.xaml.cs" Line="67" Column="25" />
+      <File FileName="Les-Pitonneux-Community-App/Pages/Login.xaml.cs" Line="112" Column="1" />
+      <File FileName="Les-Pitonneux-Community-App/Pages/Profile.xaml.cs" Line="53" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
