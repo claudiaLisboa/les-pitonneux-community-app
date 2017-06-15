@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{83D83424-F4A9-4B6C-BF96-29570E85D39A}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Les-Pitonneux-Community-App/Pages/Login.xaml.cs">
+    <Files>
+      <File FileName="Les-Pitonneux-Community-App/Pages/Profile.xaml.cs" Line="6" Column="41" />
+      <File FileName="Les-Pitonneux-Community-App/Pages/Login.xaml.cs" Line="67" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
